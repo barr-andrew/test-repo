@@ -8,5 +8,8 @@ Here are a few markdown examples:
 3. `__text__` creates italic _text_
 
 ## An inspirational quote
+<<<<<<< Updated upstream
 > Do, or do not. There is no try.
+> Do, or do not. There is no try.
+
 ![](https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png)
