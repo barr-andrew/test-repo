@@ -9,3 +9,4 @@ Here are a few markdown examples:
 
 ## An inspirational quote
 > Do, or do not. There is no try.
+![](https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png)
